@@ -1,0 +1,19 @@
+SongID,SongName,Artist,EasyLV,EasyChartDesigner,EasyChartFilename,NormalLV,NormalChartDesigner,NormalChartFilename,HardLV,HardChartDesigner,HardChartFilename,MasterLV,MasterNoteDesigner,MasterChartFilename,MovieFilename,SongFilename,SongJacketFilename
+0,Ask to Wind,Forte Escape,2,TonyBanana,askwind_easy,5,TonyBanana,askwind_normal,8,TonyBanana,askwind_hard,11,TonyBanana,askwind_master,ask_to_wind.mp4,ask_to_wind,ask_to_wind
+1,Airwave,ReX,7,HyperSystem,airwave_easy,10,HyperSystem,airwave_normal,12,HyperSystem A,airwave_hard,13,HyperSystem Ultimate,airwave_master,airwave.mp4,airwave,airwave
+2,Color,Clazziquai,2,Huz,color_easy,4,Huz,color_normal,9,Huz,color_hard,10,Huz,color_master,color.mp4,color,color
+3,Colours of Sorrow,Tsukasa,7,Roger Smith,Colours_of_Sorrow_EZ,8,Roger Smith,Colours_of_Sorrow_NM,11,Roger Smith,Colours_of_Sorrow_HD,12,Roger Smith,Colours_of_Sorrow_MS,colours_of_sorrow.mp4,colours_of_sorrow,colours_of_sorrow
+4,Come to Me,Clazziquai,2,Roger Smith,come_to_me_clazziquai_easy,4,Roger Smith,come_to_me_clazziquai_normal,7,Roger Smith,come_to_me_clazziquai_hard,9,Roger Smith,come_to_me_clazziquai_master,come_to_me.mp4,come_to_me,come_to_me
+5,Creator,Clazziquai,2,Roger Smith,creator_easy,5,Roger Smith,creator_normal,7,Roger Smith,creator_hard,10,Roger Smith,creator_master,creator.mp4,creator,creator
+6,Do you know? (Game Edit),Machina,3,thanik,dyn_easy,6,thanik,dyn_normal,8,thanik,dyn_hard,10,thanik,dyn_master,dyn.mp4,dyn,dyn
+7,Eternal Fantasy,XeoN,2,TonyBanana,eternal_fantasy_easy,5,TonyBanana,eternal_fantasy_normal,8,TonyBanana,eternal_fantasy_hard,10,TonyBanana,eternal_fantasy_master,eternal_fantasy.mp4,eternal_fantasy,eternal_fantasy
+8,First Kiss,BJJ,2,Roger Smith,First_Kiss_EZ,5,Roger Smith,First_Kiss_NM,7,Roger Smith,First_Kiss_HD,11,Roger Smith,First_Kiss_MS,first_kiss.mp4,first_kiss,first_kiss
+9,First Kiss Another,BJJ,1,HyperSystem,firstkissanother_easy,5,HyperSystem,firstkissanother_normal,9,HyperSystem,firstkissanother_hard,10,HyperSystem,firstkissanother_master,first_kiss.mp4,first_kiss,first_kiss
+10,In My Heart,Tsukasa,2,Huz,InMyHeart_Easy,4,Huz,InMyHeart_Normal,7,Huz,InMyHeart_Hard,9,Huz,InMyHeart_Master,in_my_heart.mp4,in_my_heart,in_my_heart
+11,Lost Templar,YuuSaKi,5,Huz,templar_easy,8,Huz,templar_normal,11,Huz,templar_hard,13,Huz,templar_master,lost_templar.mp4,lost_templar,lost_templar
+12,Maid Battle,5argon,3,Huz,maid_easy,7,Huz,maid_normal,10,Huz,maid_hard,11,Huz,maid_master,maid_battle.mp4,maid_battle,maid_battle
+13,Neonlights,DJ Noriken,6,HyperSystem,neon_easy,9,HyperSystem,neon_normal,11,HyperSystem,neon_hard,12,HyperSystem A,neon_master,neonlights.mp4,neonlights,neonlights
+14,Oshama Scramble,t+pazolite,5,thanik+system,oshama_easy,9,thanik+system,oshama_normal,11,thanik+system,oshama_hard,13,thanik+system,oshama_master,oshama_scramble.mp4,oshama_scramble,oshama_scramble
+15,Poppin' Shower,P*light,6,HyperSystem,poppin_easy,10,HyperSystem,poppin_normal,12,HyperSystem,poppin_hard,13,HyperSystem A,poppin_master,poppin_shower.mp4,poppin_shower,poppin_shower
+16,Remember,Lin-G,4,Roger Smith,remember_easy,7,Roger Smith,remember_normal,10,Roger Smith,remember_hard,11,Roger Smith,remember_master,remember.mp4,remember,remember
+17,Running Out,flicknote,6,Huz,RunningOut_Easy,8,Huz,RunningOut_Normal,10,Huz,RunningOut_Hard,11,Huz,RunningOut_Master,running_out_2015.mp4,running_out_2015,running_out_2015

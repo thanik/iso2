@@ -1,0 +1,5 @@
+SongID,SongName,Artist,EasyLV,EasyChartDesigner,EasyChartFilename,NormalLV,NormalChartDesigner,NormalChartFilename,HardLV,HardChartDesigner,HardChartFilename,MasterLV,MasterNoteDesigner,MasterChartFilename,MovieFilename,SongFilename,SongJacketFilename
+0,Do you know? (Game Edit),Machina,3,thanik,dyn_easy,6,thanik,dyn_normal,8,thanik,dyn_hard,10,thanik,dyn_master,dyn.mp4,dyn,dyn
+1,Lost Templar,YuuSaKi,5,Huz,templar_easy,8,Huz,templar_normal,11,Huz,templar_hard,13,Huz,templar_master,lost_templar.mp4,lost_templar,lost_templar
+2,Maid Battle,5argon,3,Huz,maid_easy,7,Huz,maid_normal,10,Huz,maid_hard,11,Huz,maid_master,maid_battle.mp4,maid_battle,maid_battle
+3,Running Out,flicknote,6,Huz,RunningOut_Easy,8,Huz,RunningOut_Normal,10,Huz,RunningOut_Hard,11,Huz,RunningOut_Master,running_out_2015.mp4,running_out_2015,running_out_2015
