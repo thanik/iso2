@@ -1,4 +1,6 @@
 # iso2 (2016)
+[Gameplay Video](https://youtu.be/DMP_Vq22tMc)
+
 ![Screenshot](Images/screenshot.png)
 
 "Project 150 or "iso" is a rhythm action arcade game running on arcade platform. The game is equipped with brand-new gameplay that have never existed before. Project 150 tries to enhance skills of sense coordination of player. As the game is an arcade game, it means that players have to pay or insert coins to play. This will challenge players in survivability."
